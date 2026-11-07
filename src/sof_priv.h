@@ -9,7 +9,7 @@
 #include <devices/type/audio_device.h>
 #include "sof_regs.h"
 
-#define SOF_FW_PATH             "/initrd/firmware/sof-glk.ri"
+#define SOF_FW_PATH             "/lib/firmware/sof-glk.ri"
 #define SOF_XMAN_MAGIC          0x6E614D58
 #define SOF_CORE_MASK           0x3
 #define SOF_BOOT_CORE           0x1
